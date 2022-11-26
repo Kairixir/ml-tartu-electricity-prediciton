@@ -132,4 +132,3 @@ dmypy.json
 .virtual_documents/
 
 # Darts library logs
-darts_logs/
