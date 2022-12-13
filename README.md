@@ -14,3 +14,6 @@ https://gist.github.com/ericavonb/3c79e5035567c8ef3267
 3. Enlist virtual environment as usable jupyter kernel `python -m ipykernel --user --name <name-of-kernel>`
 4. Run JupyterServer and your Jupyter IDE
 5. Make sure the notebook uses your `<name-of-kernel>` kernel for execution
+
+# Important
+LSTM code is in lstm branch
